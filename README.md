@@ -302,7 +302,7 @@ workspace.
 3. SonarQube Scan
 
    
-- Lists the directory contents to ensure files are in place. //https://www.youtube.com/watch?v=a_12qeIuaKc
+- Lists the directory contents to ensure files are in place.
 - Runs a SonarQube scan using Maven to analyze the code for bugs, vulnerabilities, 
 and code smells. The scan results are sent to the specified SonarQube server.
 
